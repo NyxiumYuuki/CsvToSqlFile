@@ -1,0 +1,6 @@
+header_1;header_2;header_3;header_4
+test1;0;1353;-16543
+test1;0.01;1353.13;-16543.132
+test3;08/05/1998T18:01:00;08/05/2022;08/05/1998 18:01:00
+test4;True;TRUE;FALSE
+test5;;;
